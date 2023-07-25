@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository and will be used for practice purposes
-This project is to help me understand how to create repositories on GitHub
-I would recommend using the repository as a template for your learning, however,
-you can view the code to compare it with your process.
+My name is _Osarumwense Felix_.
+I am an aspiring software Engineer who just started learning at **ALX-SE** program.
+This is my first attempt at creating a repository.
